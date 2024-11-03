@@ -42,7 +42,8 @@ The code runs an infinite number of times and harvest the grass with the if cond
 
 Video Demo :
 
-![](c:\Users\zangm\OneDrive\Desktop\step1.mp4)
+https://github.com/user-attachments/assets/372f3625-32e7-4340-b8d0-346e2fa0df69
+
 
 
 **Notes**
@@ -76,7 +77,9 @@ The code makes the drone go one square at a time harvests the grass with the if 
 **Demo**
 
 Video Demo :
-![](c:\Users\zangm\OneDrive\Desktop\step2.mp4)
+
+https://github.com/user-attachments/assets/b4340c24-da38-4a15-a38b-9827e2187a85
+
 
 
 **Notes**
@@ -112,7 +115,8 @@ This code continuously moves across a 3x3 grid, trading for carrot seeds, planti
 **Demo**
 
 Video Demo :
-![](c:\Users\zangm\OneDrive\Desktop\step3.mp4)
+
+https://github.com/user-attachments/assets/6777c37c-7c9b-43fe-87aa-b7014c1be5d3
 
 
 **Notes**
@@ -148,7 +152,8 @@ This code makes the drone to plant and harvest grass across the grid, applying m
 **Demo**
 
 Video Demo :
-![](c:\Users\zangm\OneDrive\Desktop\step4.mp4)
+
+https://github.com/user-attachments/assets/6777c37c-7c9b-43fe-87aa-b7014c1be5d3
 
 
 **Notes**
@@ -183,7 +188,8 @@ This code plants trees and bushes in a checkerboard pattern across the grid, wat
 **Demo**
 
 Video Demo :
-![](c:\Users\zangm\OneDrive\Desktop\step5.mp4)
+
+https://github.com/user-attachments/assets/6777c37c-7c9b-43fe-87aa-b7014c1be5d3
 
 
 **Notes**
@@ -216,7 +222,8 @@ This code makes the drone to plant, water, and harvest carrots across the grid, 
 **Demo**
 
 Video Demo :
-![](c:\Users\zangm\OneDrive\Desktop\step6.mp4)
+
+https://github.com/user-attachments/assets/6777c37c-7c9b-43fe-87aa-b7014c1be5d3
 
 
 **Notes**
@@ -253,7 +260,8 @@ This code makes the drone to plant and harvest pumpkins by traversing the grid, 
 **Demo**
 
 Video Demo :
-![](c:\Users\zangm\OneDrive\Desktop\step7.mp4)
+
+https://github.com/user-attachments/assets/6777c37c-7c9b-43fe-87aa-b7014c1be5d3
 
 
 **Notes**
@@ -291,7 +299,9 @@ This code guides the drone to plant, water, and harvest sunflowers across the gr
 **Demo**
 
 Video Demo :
-![](c:\Users\zangm\OneDrive\Desktop\step 8.mp4)
+
+https://github.com/user-attachments/assets/61c765c4-a2e7-4268-8e72-292a0dab183b
+
 
 
 **Notes**
@@ -349,7 +359,7 @@ This code defines a loop where an entity plants bushes, navigates to treasures w
 
 Video Demo :
 
-![](c:\Users\zangm\OneDrive\Desktop\step9.mp4)
+https://github.com/user-attachments/assets/d83616c3-8673-423f-b76e-23b864f9fabb
 
 
 **Notes**
